@@ -10,7 +10,7 @@ Persoona on kasutajagruppi esindav tüüpiline isik. Persoona ei pea olema päri
 
 **NB! Esimene persoona on loodud näidiseks. Täida read enda persoona andmetega!**
 
-## Persoona 1
+## Persoona 1 - peamine persoona
 
 ### Nimi
 Merili Saar
