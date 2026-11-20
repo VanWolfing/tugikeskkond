@@ -13,28 +13,35 @@ Persoona on kasutajagruppi esindav tüüpiline isik. Persoona ei pea olema päri
 ## Persoona 1
 
 ### Nimi
-Mari
+Merili Saar
 
 ### Vanus
-14
+38
 
 ### Taust
-8.klassi õpilane, elab väikelinnas. Kasutab igapäevaselt arvutit ja telefoni nii õppimiseks kui suhtlemiseks.
+Elab väikelinnas. Poeg Karl käib 3. klassis. Klassiõpetaja ütles arenguvestlusel, et Karli kirjutamine jääb eakaaslastest selgelt maha, ja soovitas pöörduda Rajaleidjasse. Merili ei tea, mida „õpiraskus” tähendab, kas see on tema süü ja mida kodus teisiti teha. Kodutööd lõppevad mitu korda nädalas pisaratega.
 
 ### Vajadused
-Vajab selget ja lihtsat keskkonda, kus kõik õppematerjalid on ühes kohas. Vajab juhiseid, mis on kergesti arusaadavad.
+- Saada lihtsas keeles ja hirmutamata aru, mis tema lapsega toimub ja mida „õpiraskus“ tähendab.
+- Teada, kuidas kodus kodutöödega aidata, nii et õhtud ei lõpeks tülidega.
+- Mõista, mis tuge pakuvad kool ja Rajaleidja ning mida vanemana küsida ja kokku leppida.
+- Kuulda teistelt vanematelt, kuidas nemad hakkama said.
 
 ### Ootused
-Soovib leida vajalikud õppematerjalid kiiresti ja ilma segaduseta.
+Ta ootab ühte usaldusväärset eestikeelset kohta, kus info on lihtsas keeles, lühikeste osadena ja loogilises järjekorras: mis on õpiraskus, kuidas valmistuda Rajaleidja kohtumiseks ja mida kodus teha. Sisu peab olema mugav lugeda telefonist ja läbitav 10–15 minutiga.
 
 ### Probleemid
-Õppematerjalid on erinevates keskkondades ja neid on raske üles leida. Vahel ei saa aru, mida täpselt tegema peab.
+- Ei tea, mida guugeldada. Info leiab ta juhuslikult ja killud ei moodustu tervikuks.
+- Ei oska hinnata, kas leitud info on usaldusväärne.
+- Ei tea, kas lapse raskused on tema süü.
+- Kodutööde tegemine on pingeline ja lõpeb sageli pisaratega.
+- Aega on vähe: infot otsib ta hilisõhtul telefonist ja ainult siis, kui tekib konkreetne mure. Oma õppimist ta ei planeeri.
 
 ### Motivatsioon
-Tahab saada häid hindeid ja olla koolis edukas.
+Ta tahab oma last aidata ning saada kindlust, et ta teeb kodus õigeid asju. Talle on oluline tunda, et ta pole üksi. Teiste vanemate kogemuslood annaksid talle julgust ja lootust.
 
 ### Tsitaat
-*Ma tahan, et kõik oleks lihtne ja kiiresti leitav.*
+*Ma tahan oma last aidata, aga ma ei tea isegi, mida guugeldada.*
 
 ### Pilt
 
