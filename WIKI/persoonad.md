@@ -45,7 +45,7 @@ Ta tahab oma last aidata ning saada kindlust, et ta teeb kodus õigeid asju. Tal
 
 ### Pilt
 
-<img width="500" height="750" alt="ChatGPT Image Apr 6, 2026, 06_23_49 PM" src="https://github.com/user-attachments/assets/5d69d311-6f40-4d10-a68d-fd57869207c8" />
+![Merili Saar](images/Merili Saar.png)
 
 
 ## Persoona 2
