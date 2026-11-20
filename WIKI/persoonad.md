@@ -45,7 +45,7 @@ Ta tahab oma last aidata ning saada kindlust, et ta teeb kodus õigeid asju. Tal
 
 ### Pilt
 
-<img src="images/merili.png" alt="Merili Saar" width="250">
+<img src="../images/merili.png" alt="Merili Saar" width="250">
 
 
 ## Persoona 2
